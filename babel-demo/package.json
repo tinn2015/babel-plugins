@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugins",
+  "version": "1.0.0",
+  "description": "babel-pligins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinn2015/babel-plugins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinn2015/babel-plugins/issues"
+  },
+  "homepage": "https://github.com/tinn2015/babel-plugins#readme",
+  "devDependencies": {
+    "@babel/helper-plugin-utils": "^7.14.5"
+  }
+}
